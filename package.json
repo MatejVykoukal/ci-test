@@ -1,0 +1,18 @@
+{
+	"name": "ci-test",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"test": "echo \"Tests were succesful\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MatejVykoukal/ci-test.git"
+	},
+	"author": "Matej Vykoukal",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MatejVykoukal/ci-test/issues"
+	},
+	"homepage": "https://github.com/MatejVykoukal/ci-test#readme"
+}
