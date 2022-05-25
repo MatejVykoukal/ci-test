@@ -1,22 +1,25 @@
 {
-  "name": "ci-test",
-  "version": "0.0.0-development",
-  "description": "",
-  "scripts": {
-    "test": "echo \"Tests were succesful\"",
-    "semantic-release": "semantic-release"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MatejVykoukal/ci-test.git"
-  },
-  "author": "Matej Vykoukal",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MatejVykoukal/ci-test/issues"
-  },
-  "homepage": "https://github.com/MatejVykoukal/ci-test#readme",
-  "devDependencies": {
-    "semantic-release": "^19.0.2"
-  }
+	"name": "ci-test",
+	"version": "0.0.0-development",
+	"files": [
+		"build"
+	],
+	"description": "",
+	"scripts": {
+		"test": "echo \"Tests were succesful\"",
+		"semantic-release": "semantic-release"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MatejVykoukal/ci-test.git"
+	},
+	"author": "Matej Vykoukal",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MatejVykoukal/ci-test/issues"
+	},
+	"homepage": "https://github.com/MatejVykoukal/ci-test#readme",
+	"devDependencies": {
+		"semantic-release": "^19.0.2"
+	}
 }
