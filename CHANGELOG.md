@@ -1,3 +1,10 @@
+# [9.13.0](https://github.com/MatejVykoukal/ci-test/compare/v9.12.0...v9.13.0) (2022-05-26)
+
+
+### Features
+
+* Hello world ([733e201](https://github.com/MatejVykoukal/ci-test/commit/733e20165c2f42cb7a749858d53091a180951fe6))
+
 # [9.12.0](https://github.com/MatejVykoukal/ci-test/compare/v9.11.0...v9.12.0) (2022-05-26)
 
 
