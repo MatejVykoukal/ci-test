@@ -1,3 +1,10 @@
+# [9.14.0](https://github.com/MatejVykoukal/ci-test/compare/v9.13.0...v9.14.0) (2022-05-26)
+
+
+### Features
+
+* fetaure3 ([0834ce1](https://github.com/MatejVykoukal/ci-test/commit/0834ce146057446c03ae9a0ff2576254c777b555))
+
 # [9.13.0](https://github.com/MatejVykoukal/ci-test/compare/v9.12.0...v9.13.0) (2022-05-26)
 
 
