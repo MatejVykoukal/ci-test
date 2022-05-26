@@ -1,3 +1,10 @@
+# [9.15.0](https://github.com/MatejVykoukal/ci-test/compare/v9.14.0...v9.15.0) (2022-05-26)
+
+
+### Features
+
+* featureee ([dc7e8d7](https://github.com/MatejVykoukal/ci-test/commit/dc7e8d77fa2726082773d765e1e98e96cff68e9b))
+
 # [9.14.0](https://github.com/MatejVykoukal/ci-test/compare/v9.13.0...v9.14.0) (2022-05-26)
 
 
