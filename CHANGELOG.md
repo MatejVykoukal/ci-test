@@ -1,3 +1,10 @@
+# [9.16.0](https://github.com/MatejVykoukal/ci-test/compare/v9.15.0...v9.16.0) (2022-05-26)
+
+
+### Features
+
+* add name ([59d3185](https://github.com/MatejVykoukal/ci-test/commit/59d318552f79cb0939b36f75a7c072714aa7ba52))
+
 # [9.15.0](https://github.com/MatejVykoukal/ci-test/compare/v9.14.0...v9.15.0) (2022-05-26)
 
 
