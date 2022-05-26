@@ -1,6 +1,6 @@
 {
-	"name": "ci-test123456789",
-	"version": "9.15.0",
+	"name": "@m.vykoukal/ci-test123456789",
+	"version": "0.0.0-development",
 	"description": "",
 	"scripts": {
 		"test": "echo \"Tests were succesful\"",
