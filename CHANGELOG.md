@@ -1,3 +1,10 @@
+# [9.17.0](https://github.com/MatejVykoukal/ci-test/compare/v9.16.0...v9.17.0) (2022-05-27)
+
+
+### Features
+
+* add private to package.json ([44ff1c1](https://github.com/MatejVykoukal/ci-test/commit/44ff1c1d114786522937af3b4b466147f0e00b55))
+
 # [9.16.0](https://github.com/MatejVykoukal/ci-test/compare/v9.15.0...v9.16.0) (2022-05-26)
 
 
