@@ -1,3 +1,10 @@
+# [9.18.0](https://github.com/MatejVykoukal/ci-test/compare/v9.17.0...v9.18.0) (2022-05-27)
+
+
+### Features
+
+* featasdasd ([92626c9](https://github.com/MatejVykoukal/ci-test/commit/92626c9eb8923b40378f91fe0554f0a82cb719e0))
+
 # [9.17.0](https://github.com/MatejVykoukal/ci-test/compare/v9.16.0...v9.17.0) (2022-05-27)
 
 
