@@ -1,3 +1,10 @@
+# [9.20.0](https://github.com/MatejVykoukal/ci-test/compare/v9.19.0...v9.20.0) (2022-05-27)
+
+
+### Features
+
+* a ([3a052bd](https://github.com/MatejVykoukal/ci-test/commit/3a052bd85a76f484bc2ee030f7ddfb739b138072))
+
 # [9.19.0](https://github.com/MatejVykoukal/ci-test/compare/v9.18.0...v9.19.0) (2022-05-27)
 
 
