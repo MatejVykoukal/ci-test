@@ -1,3 +1,10 @@
+# [9.21.0](https://github.com/MatejVykoukal/ci-test/compare/v9.20.0...v9.21.0) (2022-05-30)
+
+
+### Features
+
+* Update publish.yml ([7e90651](https://github.com/MatejVykoukal/ci-test/commit/7e90651d72ef6fc3bf7585cb86a0887cfafd7a2d))
+
 # [9.20.0](https://github.com/MatejVykoukal/ci-test/compare/v9.19.0...v9.20.0) (2022-05-27)
 
 
